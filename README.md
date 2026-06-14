@@ -41,4 +41,6 @@ Created KPI cards, slicers, and visualizations using DAX measures.
 Delivered insights on pricing, discounts, and customer trends.
 Tools: Power BI, DAX, Excel.
 
+https://drive.google.com?utm_source=chatgpt.com
+
 https://app.powerbi.com/links/a_T61MUyQE?ctid=edef7007-ad22-4b13-91fc-561f4d1511fa&amp;pbi_source=linkShare&amp;bookmarkGuid=94bfa314-1d51-488b-8369-1cec7ed09b26
